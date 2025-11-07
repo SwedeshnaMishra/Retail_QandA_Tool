@@ -20,8 +20,8 @@ The system intelligently:
 
 ## ✨ Project Highlights
 
-🧢 Store: AtliQ Tees sells Adidas, Nike, Van Heusen, and Levi’s T-shirts.
-💾 Data: Stored in a MySQL database.
+- 🧢 Store: AtliQ Tees sells Adidas, Nike, Van Heusen, and Levi’s T-shirts.
+- 💾 Data: Stored in a MySQL database.
 
 ---
 
@@ -34,7 +34,9 @@ The system intelligently:
 - Streamlit (for interactive UI)
 - Few-shot Learning for prompt improvement
 
-### 🛠️ Installation Guide: 
+---
+
+## 🛠️ Installation Guide: 
 
 ### 1️⃣ Clone the repository
 ```git clone https://github.com/codebasics/langchain.git```
@@ -58,6 +60,7 @@ The system intelligently:
 - Run the Streamlit app:
 ```streamlit run main.py```
 Then open the local URL (usually `http://localhost:8501`) in your browser.
+
 You can now ask questions in natural language like:
 - “How many total t-shirts are left in stock?”
 - “How many Nike XS white t-shirts are available?”
@@ -67,6 +70,7 @@ You can now ask questions in natural language like:
 ---
 
 ## 🧩 Project Structure
+
 ```
 Retail_QandA_Tool/
 │
